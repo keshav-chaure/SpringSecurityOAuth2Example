@@ -2,7 +2,7 @@
 ###1. Technologies
 * Spring 4.3.0.RELEASE
 * Maven 3.3.3
-* JSTL 1.2
+
 
 ###2. To Run this project locally
 
